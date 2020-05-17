@@ -1,0 +1,35 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "uuid": [
+        {
+            "value": "17ec9d6a-bdf8-4a79-927c-d3f59e2b135d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/1"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/article\/what-your-dog-breed-really-says-about-you"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -14,7 +14,7 @@
         ],
         "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/entity_id": [
             {
-                "href": "http:\/\/default\/node\/3?_format=hal_json"
+                "href": "http:\/\/default\/article\/porque-amo-el-cafe?_format=hal_json"
             }
         ]
     },
@@ -63,7 +63,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/node\/3?_format=hal_json"
+                        "href": "http:\/\/default\/article\/porque-amo-el-cafe?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/node\/article"

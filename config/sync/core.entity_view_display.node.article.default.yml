@@ -24,9 +24,14 @@ targetEntityType: node
 bundle: article
 mode: default
 content:
+  addtoany:
+    weight: 1
+    region: content
+    settings: {  }
+    third_party_settings: {  }
   body:
     type: text_default
-    weight: 1
+    weight: 2
     region: content
     settings: {  }
     third_party_settings: {  }
@@ -66,9 +71,5 @@ content:
     settings:
       link: true
     third_party_settings: {  }
-  links:
-    weight: 2
-    region: content
-    settings: {  }
-    third_party_settings: {  }
-hidden: {  }
+hidden:
+  links: true

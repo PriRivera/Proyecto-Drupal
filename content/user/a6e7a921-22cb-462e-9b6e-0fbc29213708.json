@@ -95,6 +95,14 @@
             "lang": "en"
         }
     ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
     "field_about_me": [
         {
             "value": "<p>I am hiram i love coffee<\/p>\r\n",

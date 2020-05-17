@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/node\/3?_format=hal_json"
+            "href": "http:\/\/default\/article\/porque-amo-el-cafe?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
@@ -200,8 +200,8 @@
     ],
     "path": [
         {
-            "alias": null,
-            "pid": null,
+            "alias": "\/article\/porque-amo-el-cafe",
+            "pid": 7,
             "langcode": "en",
             "lang": "en"
         }
