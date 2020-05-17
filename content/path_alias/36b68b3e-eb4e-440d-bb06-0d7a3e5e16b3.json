@@ -1,0 +1,35 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "uuid": [
+        {
+            "value": "36b68b3e-eb4e-440d-bb06-0d7a3e5e16b3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/article\/laoreet-magna-velit-vulpes"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

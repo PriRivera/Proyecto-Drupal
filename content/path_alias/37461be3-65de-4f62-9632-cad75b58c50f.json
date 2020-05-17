@@ -1,0 +1,35 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "uuid": [
+        {
+            "value": "37461be3-65de-4f62-9632-cad75b58c50f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/9"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/article\/luctus-ratis-torqueo-vereor"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

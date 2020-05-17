@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/comment\/18?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/comment\/comment"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/uid": [
+            {
+                "href": "http:\/\/default\/user\/0?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/entity_id": [
+            {
+                "href": "http:\/\/default\/article\/magna?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "e497e293-97e2-432c-810a-28cd80447c95"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "comment_type": [
+        {
+            "target_id": "comment"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7251a64d-2d53-4619-b8ac-fe8ae42fee34"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/article\/magna?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "38b4e753-ff53-4fb7-a470-0dcff1d57232"
+                    }
+                ]
+            }
+        ]
+    },
+    "subject": [
+        {
+            "value": "Esse Huic",
+            "lang": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "devel generate",
+            "lang": "en"
+        }
+    ],
+    "mail": [
+        {
+            "value": "devel_generate@example.com",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-05-17T22:10:05+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-05-17T22:10:05+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "thread": [
+        {
+            "value": "08\/"
+        }
+    ],
+    "entity_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "field_name": [
+        {
+            "value": "comment"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "comment_body": [
+        {
+            "value": "Iaceo jugis nibh quia si similis ullamcorper. Ad aliquip capto elit eros nisl qui quia quis wisi. Eros jumentum nunc paulatim volutpat. Euismod hos inhibeo quidne saluto tation vel. Commoveo consectetuer cui jus nulla premo secundum similis. Accumsan appellatio camur os probo sudo. Nibh paulatim proprius scisco. Ille melior molior mos natu tamen.\n\nIn meus plaga suscipit usitas vel. Adipiscing iaceo modo nibh praemitto vereor. Dolore haero iusto nostrud ullamcorper velit. Appellatio capto exerci facilisi neo plaga quadrum refero velit vulpes. Aliquam at caecus commodo jumentum torqueo turpis vereor vicis vulputate. Ea esca gravis humo nutus similis vulpes. Abigo abluo exputo importunus letalis magna melior te vero.\n\nBene enim et gilvus valetudo. Commoveo eum gravis hos meus nobis nostrud populus utinam uxor. Aptent eum gravis nutus pertineo scisco. Comis commodo hendrerit nisl populus quidem sit.\n\nAccumsan dolore genitus. Abigo bene comis esse gemino iaceo inhibeo metuo occuro plaga. Commodo ille meus pecus rusticus sino veniam vereor vicis. Inhibeo olim utrum validus vulpes. Abdo autem gravis humo ille os patria saepius tego virtus.\n\nAbdo conventio fere luptatum macto uxor ymo. Abico abigo adipiscing dolus letalis pala paulatim proprius tego. At cogo ex feugiat paulatim persto tincidunt. Aptent comis euismod jus nimis obruo pneum vel vindico volutpat. Ad bene commoveo lucidus molior populus sagaciter saluto tamen.\n\nEligo eros feugiat hos nulla pecus quis scisco usitas. Acsi facilisis importunus magna natu proprius te vel. Abluo defui illum interdico iustum modo nobis obruo ratis torqueo. Appellatio ibidem metuo vereor. Ad iriure iusto pagus quae secundum sino utinam. Accumsan et huic torqueo. Augue interdico ludus modo si veniam venio.\n\nAccumsan commoveo distineo laoreet modo tum verto. Facilisi luctus persto proprius qui suscipit. Bene commodo dolor proprius quidem. Abigo comis duis nisl nostrud sed. Gemino haero imputo in paulatim vindico. Distineo in interdico melior molior.\n\nCamur comis diam dolor genitus immitto similis te valetudo. Antehabeo erat ex nimis obruo populus praesent ratis tamen ullamcorper. Ex hendrerit immitto nulla olim qui ulciscor. Conventio huic utrum. Antehabeo commoveo dignissim dolus imputo laoreet ludus refoveo si. Consectetuer defui duis imputo pecus praesent quis suscipere valde. Antehabeo dolus ex gemino letalis suscipere. Causa iustum lenis paratus pertineo secundum ut vulputate.\n\nAt et nimis quidem tum. Adipiscing amet blandit distineo esse euismod paratus qui secundum similis. Brevitas comis esse exerci nobis os vindico voco. Abico at causa conventio meus os scisco tamen turpis.\n\nAt feugiat refero. Dolore imputo tamen valetudo vicis. Euismod nobis utinam. Autem ea lobortis qui tamen utrum vicis wisi. Camur consequat genitus similis velit. Adipiscing capto facilisi hendrerit jugis nobis nutus occuro sudo ut. Antehabeo gilvus huic interdico lobortis obruo occuro quadrum quis.\n\nEa haero modo molior nibh ratis secundum sit. Accumsan elit ideo letalis melior nobis sit. Enim esca modo populus ut valde. Gemino lucidus nulla premo refero ullamcorper vindico virtus.\n\nCamur luptatum neque. Abigo hos lobortis ratis utrum. Dolore incassum mauris veniam. Abdo diam ideo in iusto luptatum patria turpis vereor. Defui euismod gemino hos immitto molior.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Iaceo jugis nibh quia si similis ullamcorper. Ad aliquip capto elit eros nisl qui quia quis wisi. Eros jumentum nunc paulatim volutpat. Euismod hos inhibeo quidne saluto tation vel. Commoveo consectetuer cui jus nulla premo secundum similis. Accumsan appellatio camur os probo sudo. Nibh paulatim proprius scisco. Ille melior molior mos natu tamen.<\/p>\n<p>In meus plaga suscipit usitas vel. Adipiscing iaceo modo nibh praemitto vereor. Dolore haero iusto nostrud ullamcorper velit. Appellatio capto exerci facilisi neo plaga quadrum refero velit vulpes. Aliquam at caecus commodo jumentum torqueo turpis vereor vicis vulputate. Ea esca gravis humo nutus similis vulpes. Abigo abluo exputo importunus letalis magna melior te vero.<\/p>\n<p>Bene enim et gilvus valetudo. Commoveo eum gravis hos meus nobis nostrud populus utinam uxor. Aptent eum gravis nutus pertineo scisco. Comis commodo hendrerit nisl populus quidem sit.<\/p>\n<p>Accumsan dolore genitus. Abigo bene comis esse gemino iaceo inhibeo metuo occuro plaga. Commodo ille meus pecus rusticus sino veniam vereor vicis. Inhibeo olim utrum validus vulpes. Abdo autem gravis humo ille os patria saepius tego virtus.<\/p>\n<p>Abdo conventio fere luptatum macto uxor ymo. Abico abigo adipiscing dolus letalis pala paulatim proprius tego. At cogo ex feugiat paulatim persto tincidunt. Aptent comis euismod jus nimis obruo pneum vel vindico volutpat. Ad bene commoveo lucidus molior populus sagaciter saluto tamen.<\/p>\n<p>Eligo eros feugiat hos nulla pecus quis scisco usitas. Acsi facilisis importunus magna natu proprius te vel. Abluo defui illum interdico iustum modo nobis obruo ratis torqueo. Appellatio ibidem metuo vereor. Ad iriure iusto pagus quae secundum sino utinam. Accumsan et huic torqueo. Augue interdico ludus modo si veniam venio.<\/p>\n<p>Accumsan commoveo distineo laoreet modo tum verto. Facilisi luctus persto proprius qui suscipit. Bene commodo dolor proprius quidem. Abigo comis duis nisl nostrud sed. Gemino haero imputo in paulatim vindico. Distineo in interdico melior molior.<\/p>\n<p>Camur comis diam dolor genitus immitto similis te valetudo. Antehabeo erat ex nimis obruo populus praesent ratis tamen ullamcorper. Ex hendrerit immitto nulla olim qui ulciscor. Conventio huic utrum. Antehabeo commoveo dignissim dolus imputo laoreet ludus refoveo si. Consectetuer defui duis imputo pecus praesent quis suscipere valde. Antehabeo dolus ex gemino letalis suscipere. Causa iustum lenis paratus pertineo secundum ut vulputate.<\/p>\n<p>At et nimis quidem tum. Adipiscing amet blandit distineo esse euismod paratus qui secundum similis. Brevitas comis esse exerci nobis os vindico voco. Abico at causa conventio meus os scisco tamen turpis.<\/p>\n<p>At feugiat refero. Dolore imputo tamen valetudo vicis. Euismod nobis utinam. Autem ea lobortis qui tamen utrum vicis wisi. Camur consequat genitus similis velit. Adipiscing capto facilisi hendrerit jugis nobis nutus occuro sudo ut. Antehabeo gilvus huic interdico lobortis obruo occuro quadrum quis.<\/p>\n<p>Ea haero modo molior nibh ratis secundum sit. Accumsan elit ideo letalis melior nobis sit. Enim esca modo populus ut valde. Gemino lucidus nulla premo refero ullamcorper vindico virtus.<\/p>\n<p>Camur luptatum neque. Abigo hos lobortis ratis utrum. Dolore incassum mauris veniam. Abdo diam ideo in iusto luptatum patria turpis vereor. Defui euismod gemino hos immitto molior.<\/p>\n",
+            "lang": "en"
+        }
+    ]
+}

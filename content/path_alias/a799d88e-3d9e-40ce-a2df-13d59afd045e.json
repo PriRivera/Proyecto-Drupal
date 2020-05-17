@@ -1,0 +1,35 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "uuid": [
+        {
+            "value": "a799d88e-3d9e-40ce-a2df-13d59afd045e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/12"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/article\/molior-natu-quidne-valde"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

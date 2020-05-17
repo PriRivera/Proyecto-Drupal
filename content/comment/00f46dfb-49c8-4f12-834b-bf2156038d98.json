@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/comment\/27?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/comment\/comment"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/uid": [
+            {
+                "href": "http:\/\/default\/user\/0?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/entity_id": [
+            {
+                "href": "http:\/\/default\/article\/nulla?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "00f46dfb-49c8-4f12-834b-bf2156038d98"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "comment_type": [
+        {
+            "target_id": "comment"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7251a64d-2d53-4619-b8ac-fe8ae42fee34"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/article\/nulla?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0b893d0d-d1c1-43ff-a5f1-95cd6ed17bf6"
+                    }
+                ]
+            }
+        ]
+    },
+    "subject": [
+        {
+            "value": "Euismod Singularis Ut Utinam",
+            "lang": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "devel generate",
+            "lang": "en"
+        }
+    ],
+    "mail": [
+        {
+            "value": "devel_generate@example.com",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-05-17T22:10:05+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-05-17T22:10:05+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "thread": [
+        {
+            "value": "03\/"
+        }
+    ],
+    "entity_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "field_name": [
+        {
+            "value": "comment"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "comment_body": [
+        {
+            "value": "Abdo dignissim eu laoreet nimis quis. Abluo ea iusto luptatum pecus probo. Aliquip appellatio facilisi ille. Acsi aliquam eum haero ludus nobis verto.\n\nAcsi eum patria. Abico bene causa metuo olim qui quibus similis sudo vulpes. Luptatum nisl nobis quis valde. Antehabeo duis lobortis obruo occuro os pertineo plaga utrum. Eum genitus ludus paratus qui quis scisco utinam vulpes. Adipiscing exputo feugiat gravis hos loquor magna metuo secundum verto.\n\nGravis hos humo illum probo suscipere te utrum voco. Exerci natu obruo plaga quadrum rusticus tum turpis uxor vero. Abluo ex humo interdico metuo minim natu olim utrum. Esca et usitas. Cui feugiat iaceo ibidem paulatim saluto. Accumsan genitus illum luptatum melior nimis quae. Comis commoveo esse facilisis jumentum nunc paratus quis singularis zelus.\n\nInterdico mauris pneum rusticus. Elit enim feugiat jus nibh pala persto si voco. Autem ea immitto premo refoveo sit sudo typicus velit verto. Amet quia usitas volutpat. Comis distineo enim lobortis paratus plaga similis. Abdo appellatio in metuo nutus odio plaga tum uxor volutpat.\n\nCamur euismod iaceo ludus modo praemitto quia quidne veniam. Feugiat illum laoreet melior neque suscipit usitas. At damnum vulpes. Consequat dignissim iusto neque praesent. Abico at dignissim luctus neque odio praesent premo refoveo rusticus. Cui os roto saepius volutpat. Abigo aliquam aptent incassum.\n\nEum gilvus humo iustum nimis pneum roto ut venio. Bene melior ullamcorper. Abluo blandit elit. Ad euismod mauris nisl patria tincidunt vulpes. Laoreet nutus rusticus. Brevitas capto et nisl refoveo roto sed volutpat. Conventio erat ille ludus obruo ratis saepius secundum tego.\n\nAugue damnum genitus haero iustum refero saepius si ullamcorper wisi. Iustum ludus quibus refero sed ut. Camur enim eros ludus nutus tamen tum. Iriure luctus macto neo pecus sed suscipit tego.\n\nIncassum jus mos nibh. Abluo dolor dolus eligo mauris quidne torqueo. Amet comis commodo gemino gravis roto sit. Aptent metuo paratus tamen ullamcorper.\n\nAbigo conventio hendrerit mauris os plaga premo sagaciter si voco. Adipiscing inhibeo tincidunt torqueo ullamcorper. Nisl praesent refoveo valetudo virtus zelus. Lucidus melior plaga quidem quis veniam. Adipiscing duis letalis modo odio premo similis utrum.\n\nCamur capto decet fere nobis probo vulputate. Esca et haero nibh oppeto suscipit typicus ulciscor virtus ymo. Gilvus paulatim ulciscor. Abdo humo ideo luctus nutus saepius. Causa gravis huic in te. Appellatio conventio inhibeo luctus odio ullamcorper vereor. Abigo amet jugis nulla plaga proprius sagaciter valde. Causa cui decet imputo iusto laoreet mos neo persto. Aptent at praemitto tincidunt velit vereor.\n\nHuic inhibeo iriure laoreet persto scisco sudo. Iusto odio suscipere. Abigo euismod gemino ideo iriure nostrud proprius quia vulpes vulputate. Augue enim luptatum nimis. Brevitas conventio jus meus os quia refoveo turpis valde.\n\nAliquip interdico luptatum praemitto refoveo tincidunt valetudo. Roto sit uxor veniam vicis volutpat. Accumsan ad bene enim ideo nibh. Abico illum lenis. Abigo ratis suscipere vel venio. Amet cui genitus humo plaga scisco verto. Abigo blandit odio persto pneum suscipit virtus. Eligo nunc tamen tum turpis voco. Abico dolore facilisis gilvus hendrerit nimis obruo pecus refero velit.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Abdo dignissim eu laoreet nimis quis. Abluo ea iusto luptatum pecus probo. Aliquip appellatio facilisi ille. Acsi aliquam eum haero ludus nobis verto.<\/p>\n<p>Acsi eum patria. Abico bene causa metuo olim qui quibus similis sudo vulpes. Luptatum nisl nobis quis valde. Antehabeo duis lobortis obruo occuro os pertineo plaga utrum. Eum genitus ludus paratus qui quis scisco utinam vulpes. Adipiscing exputo feugiat gravis hos loquor magna metuo secundum verto.<\/p>\n<p>Gravis hos humo illum probo suscipere te utrum voco. Exerci natu obruo plaga quadrum rusticus tum turpis uxor vero. Abluo ex humo interdico metuo minim natu olim utrum. Esca et usitas. Cui feugiat iaceo ibidem paulatim saluto. Accumsan genitus illum luptatum melior nimis quae. Comis commoveo esse facilisis jumentum nunc paratus quis singularis zelus.<\/p>\n<p>Interdico mauris pneum rusticus. Elit enim feugiat jus nibh pala persto si voco. Autem ea immitto premo refoveo sit sudo typicus velit verto. Amet quia usitas volutpat. Comis distineo enim lobortis paratus plaga similis. Abdo appellatio in metuo nutus odio plaga tum uxor volutpat.<\/p>\n<p>Camur euismod iaceo ludus modo praemitto quia quidne veniam. Feugiat illum laoreet melior neque suscipit usitas. At damnum vulpes. Consequat dignissim iusto neque praesent. Abico at dignissim luctus neque odio praesent premo refoveo rusticus. Cui os roto saepius volutpat. Abigo aliquam aptent incassum.<\/p>\n<p>Eum gilvus humo iustum nimis pneum roto ut venio. Bene melior ullamcorper. Abluo blandit elit. Ad euismod mauris nisl patria tincidunt vulpes. Laoreet nutus rusticus. Brevitas capto et nisl refoveo roto sed volutpat. Conventio erat ille ludus obruo ratis saepius secundum tego.<\/p>\n<p>Augue damnum genitus haero iustum refero saepius si ullamcorper wisi. Iustum ludus quibus refero sed ut. Camur enim eros ludus nutus tamen tum. Iriure luctus macto neo pecus sed suscipit tego.<\/p>\n<p>Incassum jus mos nibh. Abluo dolor dolus eligo mauris quidne torqueo. Amet comis commodo gemino gravis roto sit. Aptent metuo paratus tamen ullamcorper.<\/p>\n<p>Abigo conventio hendrerit mauris os plaga premo sagaciter si voco. Adipiscing inhibeo tincidunt torqueo ullamcorper. Nisl praesent refoveo valetudo virtus zelus. Lucidus melior plaga quidem quis veniam. Adipiscing duis letalis modo odio premo similis utrum.<\/p>\n<p>Camur capto decet fere nobis probo vulputate. Esca et haero nibh oppeto suscipit typicus ulciscor virtus ymo. Gilvus paulatim ulciscor. Abdo humo ideo luctus nutus saepius. Causa gravis huic in te. Appellatio conventio inhibeo luctus odio ullamcorper vereor. Abigo amet jugis nulla plaga proprius sagaciter valde. Causa cui decet imputo iusto laoreet mos neo persto. Aptent at praemitto tincidunt velit vereor.<\/p>\n<p>Huic inhibeo iriure laoreet persto scisco sudo. Iusto odio suscipere. Abigo euismod gemino ideo iriure nostrud proprius quia vulpes vulputate. Augue enim luptatum nimis. Brevitas conventio jus meus os quia refoveo turpis valde.<\/p>\n<p>Aliquip interdico luptatum praemitto refoveo tincidunt valetudo. Roto sit uxor veniam vicis volutpat. Accumsan ad bene enim ideo nibh. Abico illum lenis. Abigo ratis suscipere vel venio. Amet cui genitus humo plaga scisco verto. Abigo blandit odio persto pneum suscipit virtus. Eligo nunc tamen tum turpis voco. Abico dolore facilisis gilvus hendrerit nimis obruo pecus refero velit.<\/p>\n",
+            "lang": "en"
+        }
+    ]
+}

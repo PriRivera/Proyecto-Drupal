@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/comment\/23?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/comment\/comment"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/entity_id": [
+            {
+                "href": "http:\/\/default\/article\/luctus-ratis-torqueo-vereor?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "7c19abdc-57a3-4522-a408-a79b605563c7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "comment_type": [
+        {
+            "target_id": "comment"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "63e76125-7371-4f7a-b81d-035ad7ffe915"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/article\/luctus-ratis-torqueo-vereor?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "677d85a4-6081-4789-8249-c91f701250e1"
+                    }
+                ]
+            }
+        ]
+    },
+    "subject": [
+        {
+            "value": "Macto Neque Valde Vicis",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-05-17T22:10:05+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-05-17T22:10:05+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "thread": [
+        {
+            "value": "04\/"
+        }
+    ],
+    "entity_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "field_name": [
+        {
+            "value": "comment"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "comment_body": [
+        {
+            "value": "Consequat decet dignissim gemino si vel vereor. Abbas augue conventio jumentum rusticus ut vero. Macto modo occuro secundum similis velit. Interdico quidem utrum valetudo vero voco. Conventio metuo nimis rusticus secundum ulciscor ut validus vulputate zelus. Importunus jugis quidem uxor virtus ymo.\n\nAbigo commodo dignissim gemino jumentum praemitto ullamcorper venio. Eu lobortis macto metuo virtus. Enim hendrerit luptatum qui tincidunt virtus wisi. Abigo dignissim loquor magna nulla singularis suscipere.\n\nAugue diam interdico os pecus. Ad autem capto defui haero hos macto neque proprius quidne. Eum huic utrum vicis. Camur defui exerci haero importunus wisi. Ea euismod natu pecus suscipere tamen tation veniam. Abico abluo esse lenis si validus veniam vereor vulputate. Commoveo nisl similis. Amet gilvus huic metuo paratus sed ut vulpes.\n\nParatus patria utinam valde zelus. Consequat et iusto vero. Adipiscing exputo interdico jus neque persto plaga te vulpes vulputate. Comis eligo hendrerit jumentum pertineo quae sed suscipere tego valde. Abbas brevitas capto in odio sit suscipit typicus. Decet nibh pala similis voco. Jus letalis nunc te velit.\n\nOs quadrum valetudo. Amet commodo ex letalis quidne scisco tego vindico volutpat ymo. Esca quia vero. Appellatio capto fere genitus luctus probo sudo vulputate ymo. Abico accumsan at huic laoreet magna natu velit. Exputo iriure nibh. Abigo haero roto. Accumsan amet autem cogo nibh suscipit tation. Exerci facilisi humo iaceo sed tincidunt utrum venio vero vulpes.\n\nAbdo accumsan augue haero ibidem luctus meus modo nostrud. Nobis plaga typicus valetudo. Blandit comis conventio dolore eu ideo inhibeo iusto utinam velit. Huic nibh obruo paulatim tego turpis ut. Dolor ex haero nulla pagus secundum singularis wisi.\n\nSudo valetudo virtus. Abigo molior probo qui refero roto scisco suscipit. Esse loquor pala si turpis. Bene blandit consectetuer eu gravis iustum occuro saepius.\n\nAbico abigo commoveo eros jugis jus neque os quia saepius. Ad erat mos roto scisco si. Antehabeo at camur capto gravis natu qui quibus sudo vero.\n\nEx neque olim praemitto quibus secundum velit. Fere importunus magna suscipere wisi. Iustum laoreet lobortis ludus mauris quidem velit. Eligo esca jumentum. Adipiscing fere plaga refero saepius veniam ymo. Aptent elit macto magna mos neo te. Commoveo enim eum. Abluo consectetuer pneum. Eum genitus illum macto occuro quadrum te tum. Euismod feugiat iustum pneum. Humo minim volutpat vulputate.\n\nBene iriure uxor. Metuo meus velit vulpes. Elit luptatum nibh odio persto. Camur humo populus roto sudo. Amet cui magna probo vel. Accumsan blandit obruo olim sit. Conventio eligo elit. Commodo meus nimis quidem rusticus sagaciter. Esse in mos pagus. Ea oppeto ratis valde verto. Abigo abluo populus. Amet defui distineo humo ille mauris praemitto. Metuo ut venio. Abbas appellatio decet fere minim os quadrum rusticus si.\n\nAbdo autem brevitas commoveo imputo letalis neque nibh nulla patria. Amet blandit huic jus loquor typicus. Abdo causa enim quia roto si vindico. Duis mos neque praemitto. Appellatio exerci lenis usitas validus.\n\nAptent commoveo ea ex jumentum pertineo. Distineo et mauris obruo olim praesent tum. Camur defui humo ille loquor valetudo. Abdo dolor elit ideo odio quadrum saluto venio zelus. Euismod jugis jus pagus refoveo sed. Acsi adipiscing caecus jus nisl nostrud pagus refoveo utrum.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Consequat decet dignissim gemino si vel vereor. Abbas augue conventio jumentum rusticus ut vero. Macto modo occuro secundum similis velit. Interdico quidem utrum valetudo vero voco. Conventio metuo nimis rusticus secundum ulciscor ut validus vulputate zelus. Importunus jugis quidem uxor virtus ymo.<\/p>\n<p>Abigo commodo dignissim gemino jumentum praemitto ullamcorper venio. Eu lobortis macto metuo virtus. Enim hendrerit luptatum qui tincidunt virtus wisi. Abigo dignissim loquor magna nulla singularis suscipere.<\/p>\n<p>Augue diam interdico os pecus. Ad autem capto defui haero hos macto neque proprius quidne. Eum huic utrum vicis. Camur defui exerci haero importunus wisi. Ea euismod natu pecus suscipere tamen tation veniam. Abico abluo esse lenis si validus veniam vereor vulputate. Commoveo nisl similis. Amet gilvus huic metuo paratus sed ut vulpes.<\/p>\n<p>Paratus patria utinam valde zelus. Consequat et iusto vero. Adipiscing exputo interdico jus neque persto plaga te vulpes vulputate. Comis eligo hendrerit jumentum pertineo quae sed suscipere tego valde. Abbas brevitas capto in odio sit suscipit typicus. Decet nibh pala similis voco. Jus letalis nunc te velit.<\/p>\n<p>Os quadrum valetudo. Amet commodo ex letalis quidne scisco tego vindico volutpat ymo. Esca quia vero. Appellatio capto fere genitus luctus probo sudo vulputate ymo. Abico accumsan at huic laoreet magna natu velit. Exputo iriure nibh. Abigo haero roto. Accumsan amet autem cogo nibh suscipit tation. Exerci facilisi humo iaceo sed tincidunt utrum venio vero vulpes.<\/p>\n<p>Abdo accumsan augue haero ibidem luctus meus modo nostrud. Nobis plaga typicus valetudo. Blandit comis conventio dolore eu ideo inhibeo iusto utinam velit. Huic nibh obruo paulatim tego turpis ut. Dolor ex haero nulla pagus secundum singularis wisi.<\/p>\n<p>Sudo valetudo virtus. Abigo molior probo qui refero roto scisco suscipit. Esse loquor pala si turpis. Bene blandit consectetuer eu gravis iustum occuro saepius.<\/p>\n<p>Abico abigo commoveo eros jugis jus neque os quia saepius. Ad erat mos roto scisco si. Antehabeo at camur capto gravis natu qui quibus sudo vero.<\/p>\n<p>Ex neque olim praemitto quibus secundum velit. Fere importunus magna suscipere wisi. Iustum laoreet lobortis ludus mauris quidem velit. Eligo esca jumentum. Adipiscing fere plaga refero saepius veniam ymo. Aptent elit macto magna mos neo te. Commoveo enim eum. Abluo consectetuer pneum. Eum genitus illum macto occuro quadrum te tum. Euismod feugiat iustum pneum. Humo minim volutpat vulputate.<\/p>\n<p>Bene iriure uxor. Metuo meus velit vulpes. Elit luptatum nibh odio persto. Camur humo populus roto sudo. Amet cui magna probo vel. Accumsan blandit obruo olim sit. Conventio eligo elit. Commodo meus nimis quidem rusticus sagaciter. Esse in mos pagus. Ea oppeto ratis valde verto. Abigo abluo populus. Amet defui distineo humo ille mauris praemitto. Metuo ut venio. Abbas appellatio decet fere minim os quadrum rusticus si.<\/p>\n<p>Abdo autem brevitas commoveo imputo letalis neque nibh nulla patria. Amet blandit huic jus loquor typicus. Abdo causa enim quia roto si vindico. Duis mos neque praemitto. Appellatio exerci lenis usitas validus.<\/p>\n<p>Aptent commoveo ea ex jumentum pertineo. Distineo et mauris obruo olim praesent tum. Camur defui humo ille loquor valetudo. Abdo dolor elit ideo odio quadrum saluto venio zelus. Euismod jugis jus pagus refoveo sed. Acsi adipiscing caecus jus nisl nostrud pagus refoveo utrum.<\/p>\n",
+            "lang": "en"
+        }
+    ]
+}

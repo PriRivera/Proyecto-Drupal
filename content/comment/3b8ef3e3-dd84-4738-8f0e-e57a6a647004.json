@@ -1,0 +1,129 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/comment\/12?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/comment\/comment"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/uid": [
+            {
+                "href": "http:\/\/default\/user\/2?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/entity_id": [
+            {
+                "href": "http:\/\/default\/article\/magna?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "3b8ef3e3-dd84-4738-8f0e-e57a6a647004"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "comment_type": [
+        {
+            "target_id": "comment"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/2?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5faf727d-bcb7-4e1d-ac11-85ac62f041fa"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/article\/magna?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "38b4e753-ff53-4fb7-a470-0dcff1d57232"
+                    }
+                ]
+            }
+        ]
+    },
+    "subject": [
+        {
+            "value": "Dolor Feugiat Natu Veniam",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-05-17T22:10:05+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-05-17T22:10:05+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "thread": [
+        {
+            "value": "02\/"
+        }
+    ],
+    "entity_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "field_name": [
+        {
+            "value": "comment"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "comment_body": [
+        {
+            "value": "Abbas antehabeo pagus pneum praesent torqueo typicus vulpes ymo. Comis illum pertineo ullamcorper utinam. Eum humo lobortis suscipere. Appellatio elit eum gilvus humo loquor refoveo virtus ymo. Abdo decet in macto meus si tation vicis ymo.\n\nComis conventio eligo hendrerit luptatum tego verto zelus. Adipiscing aliquip consequat enim praesent vulpes. At diam plaga velit. Aliquam amet magna nibh nobis roto torqueo ut.\n\nAbluo acsi laoreet molior secundum vindico. Facilisis mos odio sino utrum wisi zelus. Conventio illum nisl nutus oppeto pagus praesent tation vereor vulpes. Antehabeo autem facilisi genitus nimis si. Abdo adipiscing at huic quidem singularis sudo tum. Caecus pertineo quae saepius similis uxor. Acsi ad antehabeo causa cui humo pala persto vindico virtus.\n\nCaecus exputo immitto. Accumsan amet augue dolor dolore dolus in metuo paratus. Gravis luptatum metuo molior suscipere. Abluo hos ideo neque nobis pagus sagaciter tego. Commoveo decet ibidem ille ratis refero typicus uxor. Luptatum magna modo olim refoveo similis sit tum uxor vulputate.\n\nIllum singularis verto. Hos nunc qui tation. Abico abluo appellatio jugis luctus nostrud pagus vicis. Enim eu magna quidne voco. Commoveo lucidus nobis qui tego. Aptent oppeto quis tamen. Consequat ex fere iaceo inhibeo quibus scisco zelus. Adipiscing commodo elit iaceo quibus roto tincidunt vel velit virtus.\n\nAt eu illum inhibeo nostrud odio pecus valde. Abico appellatio eu minim neque scisco. Dolor eros quae singularis suscipit usitas ymo.\n\nDistineo incassum jugis melior nostrud nutus odio scisco. Magna refero voco. Praemitto torqueo validus. Causa facilisi haero incassum minim nibh suscipit valde validus. Abigo hendrerit ideo quia quidne veniam. Aliquip jugis uxor. Dolus et humo zelus. Pneum quidne veniam. Abbas inhibeo letalis refero rusticus scisco singularis sino suscipere venio.\n\nAliquip commodo eligo gilvus ideo sit suscipere velit. Consectetuer defui exputo hendrerit immitto letalis similis typicus vero. Autem dolore eligo iaceo iriure macto vero. Abbas abico immitto inhibeo jumentum letalis luctus neque sed vindico. Commoveo cui erat eum incassum laoreet lucidus occuro validus. Hos lobortis lucidus neque typicus usitas. Euismod oppeto quis valde. Brevitas exputo nunc roto valde vel.\n\nCommoveo dignissim gemino iriure singularis usitas vel virtus. Adipiscing jugis neo nobis quia tego. Consectetuer luctus pagus quia saepius scisco singularis sino. Capto dolore enim esca gilvus neque. Adipiscing duis gemino gravis huic neque odio sit virtus. Antehabeo bene facilisis in interdico ludus pertineo.\n\nDolus enim minim roto sagaciter ut valetudo. Abico aliquam causa decet in lucidus sudo tation utinam velit. Illum metuo quidne suscipere torqueo valetudo. Augue cogo gravis magna quadrum suscipere.\n\nAbbas abdo haero metuo nulla praemitto quibus suscipere valde vicis. Amet bene distineo iustum. Abdo commodo conventio dolor interdico jumentum quia refoveo volutpat. Commodo enim inhibeo os pagus praesent refero sit zelus.\n\nIusto persto typicus. Camur esse iriure neo pertineo typicus vicis. Diam ea ex nisl premo. Iaceo incassum letalis patria. Aliquam hos nimis nunc paratus si tego validus. Abigo consectetuer quadrum tego voco. Dolor in nimis nulla vicis zelus. Abico amet dignissim ibidem jugis vereor.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Abbas antehabeo pagus pneum praesent torqueo typicus vulpes ymo. Comis illum pertineo ullamcorper utinam. Eum humo lobortis suscipere. Appellatio elit eum gilvus humo loquor refoveo virtus ymo. Abdo decet in macto meus si tation vicis ymo.<\/p>\n<p>Comis conventio eligo hendrerit luptatum tego verto zelus. Adipiscing aliquip consequat enim praesent vulpes. At diam plaga velit. Aliquam amet magna nibh nobis roto torqueo ut.<\/p>\n<p>Abluo acsi laoreet molior secundum vindico. Facilisis mos odio sino utrum wisi zelus. Conventio illum nisl nutus oppeto pagus praesent tation vereor vulpes. Antehabeo autem facilisi genitus nimis si. Abdo adipiscing at huic quidem singularis sudo tum. Caecus pertineo quae saepius similis uxor. Acsi ad antehabeo causa cui humo pala persto vindico virtus.<\/p>\n<p>Caecus exputo immitto. Accumsan amet augue dolor dolore dolus in metuo paratus. Gravis luptatum metuo molior suscipere. Abluo hos ideo neque nobis pagus sagaciter tego. Commoveo decet ibidem ille ratis refero typicus uxor. Luptatum magna modo olim refoveo similis sit tum uxor vulputate.<\/p>\n<p>Illum singularis verto. Hos nunc qui tation. Abico abluo appellatio jugis luctus nostrud pagus vicis. Enim eu magna quidne voco. Commoveo lucidus nobis qui tego. Aptent oppeto quis tamen. Consequat ex fere iaceo inhibeo quibus scisco zelus. Adipiscing commodo elit iaceo quibus roto tincidunt vel velit virtus.<\/p>\n<p>At eu illum inhibeo nostrud odio pecus valde. Abico appellatio eu minim neque scisco. Dolor eros quae singularis suscipit usitas ymo.<\/p>\n<p>Distineo incassum jugis melior nostrud nutus odio scisco. Magna refero voco. Praemitto torqueo validus. Causa facilisi haero incassum minim nibh suscipit valde validus. Abigo hendrerit ideo quia quidne veniam. Aliquip jugis uxor. Dolus et humo zelus. Pneum quidne veniam. Abbas inhibeo letalis refero rusticus scisco singularis sino suscipere venio.<\/p>\n<p>Aliquip commodo eligo gilvus ideo sit suscipere velit. Consectetuer defui exputo hendrerit immitto letalis similis typicus vero. Autem dolore eligo iaceo iriure macto vero. Abbas abico immitto inhibeo jumentum letalis luctus neque sed vindico. Commoveo cui erat eum incassum laoreet lucidus occuro validus. Hos lobortis lucidus neque typicus usitas. Euismod oppeto quis valde. Brevitas exputo nunc roto valde vel.<\/p>\n<p>Commoveo dignissim gemino iriure singularis usitas vel virtus. Adipiscing jugis neo nobis quia tego. Consectetuer luctus pagus quia saepius scisco singularis sino. Capto dolore enim esca gilvus neque. Adipiscing duis gemino gravis huic neque odio sit virtus. Antehabeo bene facilisis in interdico ludus pertineo.<\/p>\n<p>Dolus enim minim roto sagaciter ut valetudo. Abico aliquam causa decet in lucidus sudo tation utinam velit. Illum metuo quidne suscipere torqueo valetudo. Augue cogo gravis magna quadrum suscipere.<\/p>\n<p>Abbas abdo haero metuo nulla praemitto quibus suscipere valde vicis. Amet bene distineo iustum. Abdo commodo conventio dolor interdico jumentum quia refoveo volutpat. Commodo enim inhibeo os pagus praesent refero sit zelus.<\/p>\n<p>Iusto persto typicus. Camur esse iriure neo pertineo typicus vicis. Diam ea ex nisl premo. Iaceo incassum letalis patria. Aliquam hos nimis nunc paratus si tego validus. Abigo consectetuer quadrum tego voco. Dolor in nimis nulla vicis zelus. Abico amet dignissim ibidem jugis vereor.<\/p>\n",
+            "lang": "en"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "uuid": [
+        {
+            "value": "3f054ce8-52b4-4081-8414-0ae835b0de1b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/article\/iustum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

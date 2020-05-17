@@ -1,0 +1,35 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "uuid": [
+        {
+            "value": "115e9671-6f83-4f69-87bc-2a0fe21d03f8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/article\/luptatum"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

@@ -1,0 +1,400 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/article\/nulla?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_image": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2020-05\/01_3.jpg",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_paragraph_selector": [
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_tags": [
+            {
+                "href": "http:\/\/default\/leisure?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "0b893d0d-d1c1-43ff-a5f1-95cd6ed17bf6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-05-17T22:24:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "63e76125-7371-4f7a-b81d-035ad7ffe915"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "63e76125-7371-4f7a-b81d-035ad7ffe915"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2020-05\/01_3.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5b9a78d9-6701-49a2-8207-84467ef3cdf3"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_paragraph_selector": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "6b878482-0876-48be-b58a-d4d0986d1a34"
+                    }
+                ],
+                "target_revision_id": "270"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ea9064e9-42bf-42bc-be24-061d90f67b23"
+                    }
+                ],
+                "target_revision_id": "271"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "1d28cae7-ebfb-41c1-ab82-8bf1ba3b354e"
+                    }
+                ],
+                "target_revision_id": "272"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "f7bbdf32-2fe8-424f-b300-557c01ab3ee6"
+                    }
+                ],
+                "target_revision_id": "273"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "29b99874-5b90-4f33-ae18-492c167d49ff"
+                    }
+                ],
+                "target_revision_id": "274"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0be59ee5-9eca-43a4-a0d9-00aa24b754f2"
+                    }
+                ],
+                "target_revision_id": "275"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "43bfd724-4694-4939-896a-129437efad27"
+                    }
+                ],
+                "target_revision_id": "276"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e1326f17-abc9-4631-ba3d-2789c705f979"
+                    }
+                ],
+                "target_revision_id": "277"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "01b5410d-2566-4407-b5da-1b75b0d3c1c1"
+                    }
+                ],
+                "target_revision_id": "278"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4fcc8fcf-ecf2-4deb-a313-20d156673cfb"
+                    }
+                ],
+                "target_revision_id": "279"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_tags": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/leisure?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/category"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "50080f52-7164-4ecc-a673-bcab342426ab"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Nulla",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-12-18T18:40:49+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-05-17T22:24:53+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/article\/nulla",
+            "pid": 14,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "Abigo diam meus mos nibh validus. Camur enim imputo incassum nobis proprius rusticus sagaciter wisi. Abbas aliquam melior verto. Iaceo importunus patria. Abdo acsi capto eros gravis nibh nisl quadrum. Acsi at haero iusto mos neque nunc suscipere turpis wisi. Commodo esca neo odio olim praemitto quia roto sagaciter tincidunt.\r\n\r\nAbbas accumsan capto sit torqueo turpis. At hos obruo probo quae si sit. Consequat damnum exputo nostrud obruo pagus quidem refero usitas. Et nunc pecus roto sino tamen zelus.\r\n\r\nCui ex facilisis immitto neo verto. Antehabeo esse exerci huic interdico lobortis sagaciter. Ad cui defui hendrerit nunc quia refero scisco usitas. Aliquip amet aptent cui sino utrum. Aliquip augue defui humo inhibeo jugis neque te tincidunt. Appellatio cogo comis consectetuer duis ideo magna neque venio.\r\n\r\nAd caecus distineo illum importunus jugis nibh pertineo pneum. Abigo consequat defui gilvus illum si ulciscor. Iusto jugis quae sudo. Abdo aliquip amet autem damnum quis. Eligo iriure olim os. Acsi blandit camur diam huic melior nisl praesent secundum utrum. Nibh quis vicis. Aliquam elit facilisis iusto probo sino valetudo. Aliquip eros loquor tum.\r\n\r\nElit eu persto praemitto. Dolor ex plaga utrum. Abico elit lobortis nisl uxor. Autem bene jus. Consectetuer feugiat ideo magna tincidunt. Brevitas consequat huic.\r\n\r\nErat eu nutus sagaciter singularis. Decet facilisis huic nulla. Defui lucidus ludus mos quidne. Abbas caecus commoveo consectetuer decet erat persto suscipere ymo. At comis duis eligo euismod melior quis ut. Decet esca jumentum refero. Erat gemino secundum sed ullamcorper voco. Abigo acsi iusto lucidus vicis. Genitus in luptatum metuo quadrum quia sagaciter valde vindico.\r\n\r\nNimis nisl praesent tego tum velit veniam. Qui saluto tum utrum. Abbas at autem causa dolor haero paratus proprius quadrum ullamcorper. Causa facilisis gilvus ibidem plaga rusticus te utrum validus wisi. Eros immitto laoreet quidne scisco. Aptent caecus erat jumentum mauris nulla premo sagaciter ut veniam. Abdo acsi eu ludus magna natu pecus suscipit.\r\n\r\nBrevitas esca mauris nibh. Dolus eligo neque quae. Cogo euismod feugiat gemino suscipere ullamcorper uxor vulpes. Ad appellatio feugiat ibidem letalis molior saluto sudo torqueo venio. Autem facilisis huic importunus meus pecus secundum singularis uxor zelus. Eligo iusto mauris occuro tamen tego.\r\n\r\nAliquip cui defui hos lucidus melior nobis paratus praesent. Brevitas diam eligo tamen. Modo mos ratis. Augue iustum lobortis meus nutus pala torqueo tum ullamcorper verto. Dolus lucidus persto quadrum secundum vicis. Blandit caecus dignissim exerci utinam. Bene causa illum lobortis paratus patria pecus probo quadrum wisi. Genitus patria sit uxor.\r\n\r\nDuis eligo vereor volutpat. Eligo gravis molior veniam vicis vindico. Comis occuro ymo. Cogo iusto nisl plaga proprius. Abico esca eu vicis. Lenis natu pala pertineo sudo tincidunt usitas vicis. Aliquam dignissim eligo hendrerit incassum persto. Duis tincidunt venio.\r\n\r\nCogo paulatim quae tego valde. Amet appellatio commoveo genitus ille ludus nunc proprius quis suscipere. Commoveo quae vel. Augue commoveo probo. Ad blandit commodo consectetuer esca huic iaceo neo quadrum vero. Dolore elit genitus interdico metuo torqueo.\r\n\r\nDiam eligo similis uxor validus. Genitus gilvus humo inhibeo iusto roto vulputate. Distineo ea roto. Duis incassum pertineo ullamcorper zelus. Commoveo elit euismod in lucidus odio virtus. Neo vindico wisi. Cui damnum iaceo importunus quis similis singularis torqueo voco. Diam hos refoveo. Commodo hos metuo mos nobis pala premo.\r\n\r\n",
+            "format": "plain_text",
+            "processed": "<p>Abigo diam meus mos nibh validus. Camur enim imputo incassum nobis proprius rusticus sagaciter wisi. Abbas aliquam melior verto. Iaceo importunus patria. Abdo acsi capto eros gravis nibh nisl quadrum. Acsi at haero iusto mos neque nunc suscipere turpis wisi. Commodo esca neo odio olim praemitto quia roto sagaciter tincidunt.<\/p>\n<p>Abbas accumsan capto sit torqueo turpis. At hos obruo probo quae si sit. Consequat damnum exputo nostrud obruo pagus quidem refero usitas. Et nunc pecus roto sino tamen zelus.<\/p>\n<p>Cui ex facilisis immitto neo verto. Antehabeo esse exerci huic interdico lobortis sagaciter. Ad cui defui hendrerit nunc quia refero scisco usitas. Aliquip amet aptent cui sino utrum. Aliquip augue defui humo inhibeo jugis neque te tincidunt. Appellatio cogo comis consectetuer duis ideo magna neque venio.<\/p>\n<p>Ad caecus distineo illum importunus jugis nibh pertineo pneum. Abigo consequat defui gilvus illum si ulciscor. Iusto jugis quae sudo. Abdo aliquip amet autem damnum quis. Eligo iriure olim os. Acsi blandit camur diam huic melior nisl praesent secundum utrum. Nibh quis vicis. Aliquam elit facilisis iusto probo sino valetudo. Aliquip eros loquor tum.<\/p>\n<p>Elit eu persto praemitto. Dolor ex plaga utrum. Abico elit lobortis nisl uxor. Autem bene jus. Consectetuer feugiat ideo magna tincidunt. Brevitas consequat huic.<\/p>\n<p>Erat eu nutus sagaciter singularis. Decet facilisis huic nulla. Defui lucidus ludus mos quidne. Abbas caecus commoveo consectetuer decet erat persto suscipere ymo. At comis duis eligo euismod melior quis ut. Decet esca jumentum refero. Erat gemino secundum sed ullamcorper voco. Abigo acsi iusto lucidus vicis. Genitus in luptatum metuo quadrum quia sagaciter valde vindico.<\/p>\n<p>Nimis nisl praesent tego tum velit veniam. Qui saluto tum utrum. Abbas at autem causa dolor haero paratus proprius quadrum ullamcorper. Causa facilisis gilvus ibidem plaga rusticus te utrum validus wisi. Eros immitto laoreet quidne scisco. Aptent caecus erat jumentum mauris nulla premo sagaciter ut veniam. Abdo acsi eu ludus magna natu pecus suscipit.<\/p>\n<p>Brevitas esca mauris nibh. Dolus eligo neque quae. Cogo euismod feugiat gemino suscipere ullamcorper uxor vulpes. Ad appellatio feugiat ibidem letalis molior saluto sudo torqueo venio. Autem facilisis huic importunus meus pecus secundum singularis uxor zelus. Eligo iusto mauris occuro tamen tego.<\/p>\n<p>Aliquip cui defui hos lucidus melior nobis paratus praesent. Brevitas diam eligo tamen. Modo mos ratis. Augue iustum lobortis meus nutus pala torqueo tum ullamcorper verto. Dolus lucidus persto quadrum secundum vicis. Blandit caecus dignissim exerci utinam. Bene causa illum lobortis paratus patria pecus probo quadrum wisi. Genitus patria sit uxor.<\/p>\n<p>Duis eligo vereor volutpat. Eligo gravis molior veniam vicis vindico. Comis occuro ymo. Cogo iusto nisl plaga proprius. Abico esca eu vicis. Lenis natu pala pertineo sudo tincidunt usitas vicis. Aliquam dignissim eligo hendrerit incassum persto. Duis tincidunt venio.<\/p>\n<p>Cogo paulatim quae tego valde. Amet appellatio commoveo genitus ille ludus nunc proprius quis suscipere. Commoveo quae vel. Augue commoveo probo. Ad blandit commodo consectetuer esca huic iaceo neo quadrum vero. Dolore elit genitus interdico metuo torqueo.<\/p>\n<p>Diam eligo similis uxor validus. Genitus gilvus humo inhibeo iusto roto vulputate. Distineo ea roto. Duis incassum pertineo ullamcorper zelus. Commoveo elit euismod in lucidus odio virtus. Neo vindico wisi. Cui damnum iaceo importunus quis similis singularis torqueo voco. Diam hos refoveo. Commodo hos metuo mos nobis pala premo.<\/p>\n",
+            "summary": "Abigo diam meus mos nibh validus. ",
+            "lang": "en"
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 31,
+            "last_comment_timestamp": 1589753405,
+            "last_comment_name": "devel generate",
+            "last_comment_uid": 0,
+            "comment_count": 7,
+            "lang": "en"
+        }
+    ]
+}

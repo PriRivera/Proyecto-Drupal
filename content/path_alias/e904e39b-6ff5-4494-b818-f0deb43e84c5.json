@@ -1,0 +1,35 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "uuid": [
+        {
+            "value": "e904e39b-6ff5-4494-b818-f0deb43e84c5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/11"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/article\/antehabeo-dolor-refoveo-zelus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

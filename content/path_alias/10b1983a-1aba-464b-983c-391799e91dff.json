@@ -1,0 +1,35 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "uuid": [
+        {
+            "value": "10b1983a-1aba-464b-983c-391799e91dff"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/7"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/article\/magna"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

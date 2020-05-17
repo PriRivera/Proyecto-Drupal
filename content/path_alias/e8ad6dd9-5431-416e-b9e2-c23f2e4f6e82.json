@@ -1,0 +1,35 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "uuid": [
+        {
+            "value": "e8ad6dd9-5431-416e-b9e2-c23f2e4f6e82"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/4"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/article\/feugiat-meus"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
