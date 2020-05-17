@@ -1,0 +1,131 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/user\/3?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/user\/user\/user_picture": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/pictures\/2020-05\/28198824.png",
+                "lang": "en"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "a6e7a921-22cb-462e-9b6e-0fbc29213708"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "Hiram"
+        }
+    ],
+    "mail": [
+        {
+            "value": "mrhiram1@gmail.com"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "UTC"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-05-17T20:06:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-05-17T20:38:58+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "access": [
+        {
+            "value": "2020-05-17T20:15:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "login": [
+        {
+            "value": "2020-05-17T20:08:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "init": [
+        {
+            "value": "mrhiram1@gmail.com"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "content_creator"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "field_about_me": [
+        {
+            "value": "<p>I am hiram i love coffee<\/p>\r\n",
+            "format": "basic_html",
+            "processed": "<p>I am hiram i love coffee<\/p>",
+            "summary": ""
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/user\/user\/user_picture": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/pictures\/2020-05\/28198824.png"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "71128d5e-3898-4359-9da4-1d32a8279ec0"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "pass": [
+        {
+            "value": "$S$EELiR6GNPk52ahJNsd7BOjHG2\/CiNqHt4eLYNY.bgD9k74MgBdWG"
+        }
+    ]
+}

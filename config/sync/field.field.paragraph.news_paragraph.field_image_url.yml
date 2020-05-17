@@ -1,0 +1,23 @@
+uuid: da8b9bbd-6886-4ed3-bb10-cd17ec62ec6c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_image_url
+    - paragraphs.paragraphs_type.news_paragraph
+  module:
+    - link
+id: paragraph.news_paragraph.field_image_url
+field_name: field_image_url
+entity_type: paragraph
+bundle: news_paragraph
+label: 'image url'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 17
+  title: 1
+field_type: link

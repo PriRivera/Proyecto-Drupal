@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/news_paragraph\/field_image": [
+            {
+                "href": "http:\/\/default\/media\/2\/edit?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "c3ebd34e-e317-4380-acf2-0b0deef18bc5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news_paragraph"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-05-17T19:30:00+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "1"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "field_paragraph_selector"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/news_paragraph\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/media\/2\/edit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/media\/image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "942e1fe9-8800-4019-abe2-f7534b9942d6"
+                    }
+                ]
+            }
+        ]
+    },
+    "field_image_url": [
+        {
+            "uri": "https:\/\/thehappypuppysite.com\/wp-content\/uploads\/2018\/05\/underbite-dog-header.jpg",
+            "title": "Source -thehappypuppysite.com-",
+            "options": []
+        }
+    ],
+    "field_paragraph_text": [
+        {
+            "value": "<p>Everyone knows that if you own an american bulldog dog it most likely means you love your family. You may have a tough looking exterior but truth is on the inside you have the warmest personality. You love having a big outdoor space to relax and have fun but you also respect your personal space. With this being said you need your expectations to be met and if they aren\u2019t you might have a meltdown. In general owning these dogs means you put your family first and foremost in your life.<\/p>\r\n",
+            "format": "basic_html",
+            "processed": "<p>Everyone knows that if you own an american bulldog dog it most likely means you love your family. You may have a tough looking exterior but truth is on the inside you have the warmest personality. You love having a big outdoor space to relax and have fun but you also respect your personal space. With this being said you need your expectations to be met and if they aren\u2019t you might have a meltdown. In general owning these dogs means you put your family first and foremost in your life.<\/p>"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "1. American Bulldog",
+            "format": "basic_html",
+            "processed": "1. American Bulldog"
+        }
+    ]
+}

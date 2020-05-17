@@ -1,0 +1,110 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/news_paragraph\/field_image": [
+            {
+                "href": "http:\/\/default\/media\/3\/edit?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "44bad74e-a9dd-49a9-ac64-5ff98ea59701"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "news_paragraph"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-05-17T20:15:38+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "3"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "field_paragraph_selector"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/news_paragraph\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/media\/3\/edit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/media\/image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "f94e2acd-2244-4a60-b045-22a68eae6a12"
+                    }
+                ]
+            }
+        ]
+    },
+    "field_image_url": [
+        {
+            "uri": "https:\/\/www.google.com\/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.com%2FLocationPhotoDirectLink-g317126-d12992999-i286494313-Cafe_Cozy-Gangneung_Gangwon_do.html&psig=AOvVaw0JeOLqFYy3V-dUBWE-rlW2&ust=1589832643239000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjmi6Pau-kCFQAAAAAdAAAAABAs",
+            "title": "https:\/\/media-cdn.tripadvisor.com\/media\/photo-s\/11\/13\/8e\/69\/hand-drip-coffee-in-cozy.jpg",
+            "options": []
+        }
+    ],
+    "field_paragraph_text": [
+        {
+            "value": "<p>Breve et, roast, sugar java cappuccino instant flavour. Macchiato fair trade, arabica, and wings and filter cortado americano black iced percolator. Sweet caffeine, to go, irish, foam viennese decaffeinated grinder cappuccino. Strong arabica caf\u00e9 au lait caramelization iced, crema latte skinny fair trade mug steamed.<\/p>\r\n\r\n<p>Trifecta brewed arabica aroma caf\u00e9 au lait carajillo turkish. Carajillo aged dark est so coffee frappuccino. Cinnamon, white caramelization organic, chicory lungo half and half organic mazagran. Cortado pumpkin spice single origin, aroma, aromatic dripper a robusta arabica cultivar.<\/p>\r\n",
+            "format": "basic_html",
+            "processed": "<p>Breve et, roast, sugar java cappuccino instant flavour. Macchiato fair trade, arabica, and wings and filter cortado americano black iced percolator. Sweet caffeine, to go, irish, foam viennese decaffeinated grinder cappuccino. Strong arabica caf\u00e9 au lait caramelization iced, crema latte skinny fair trade mug steamed.<\/p>\n\n<p>Trifecta brewed arabica aroma caf\u00e9 au lait carajillo turkish. Carajillo aged dark est so coffee frappuccino. Cinnamon, white caramelization organic, chicory lungo half and half organic mazagran. Cortado pumpkin spice single origin, aroma, aromatic dripper a robusta arabica cultivar.<\/p>"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Mi primer taza",
+            "format": "basic_html",
+            "processed": "Mi primer taza"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+uuid: 6631fab9-9ffe-475d-800d-e528ac10222b
+langcode: en
+status: true
+dependencies: {  }
+name: news_entity_browser
+label: 'News Entity browser'
+display: modal
+display_configuration:
+  width: '650'
+  height: '500'
+  link_text: 'Select entities'
+  auto_open: false
+selection_display: no_display
+selection_display_configuration: {  }
+widget_selector: single
+widget_selector_configuration: {  }
+widgets:
+  81618614-be1f-49f9-8d70-a57c4b535fc3:
+    settings:
+      extensions: 'jpg jpeg png gif'
+      media_type: image
+      upload_location: 'public://'
+      multiple: '1'
+      submit_text: 'Select files'
+    uuid: 81618614-be1f-49f9-8d70-a57c4b535fc3
+    weight: 1
+    label: media_image_upload
+    id: media_image_upload

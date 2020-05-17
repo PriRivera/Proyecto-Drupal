@@ -1,0 +1,15 @@
+uuid: f1b81189-9cc0-422f-8548-047c5bfd6f62
+langcode: en
+status: true
+dependencies: {  }
+name: news_article_header
+label: 'News article header'
+effects:
+  a60c3c40-df20-4a25-8746-b0fc070742c4:
+    uuid: a60c3c40-df20-4a25-8746-b0fc070742c4
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 700
+      height: 400
+      anchor: center-center

@@ -1,0 +1,10 @@
+uuid: 87607c33-ae21-41db-990c-bc0069bce348
+langcode: en
+status: true
+dependencies: {  }
+id: news_paragraph
+label: 'News paragraph'
+icon_uuid: null
+icon_default: null
+description: 'news paragraph'
+behavior_plugins: {  }

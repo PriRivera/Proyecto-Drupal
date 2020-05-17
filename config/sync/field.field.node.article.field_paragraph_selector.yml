@@ -1,0 +1,31 @@
+uuid: 5b9922ea-cd25-4d09-86b8-c9887ce0710d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_paragraph_selector
+    - node.type.article
+    - paragraphs.paragraphs_type.news_paragraph
+  module:
+    - entity_reference_revisions
+id: node.article.field_paragraph_selector
+field_name: field_paragraph_selector
+entity_type: node
+bundle: article
+label: 'Paragraph selector'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    negate: 0
+    target_bundles:
+      news_paragraph: news_paragraph
+    target_bundles_drag_drop:
+      news_paragraph:
+        enabled: true
+        weight: 2
+field_type: entity_reference_revisions

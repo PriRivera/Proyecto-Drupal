@@ -1,0 +1,13 @@
+uuid: 85cf57fd-b4b3-4a38-9c30-94e49b0a9b80
+langcode: en
+status: true
+dependencies: {  }
+id: content_creator
+label: 'Content creator'
+weight: 4
+is_admin: null
+permissions:
+  - 'create article content'
+  - 'delete own article content'
+  - 'edit own comments'
+  - 'view own unpublished content'
