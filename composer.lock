@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "95458899e1a359723575fa3df270c331",
+    "content-hash": "cac136f1ac940e8e7b47d24852ed3fce",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -2178,6 +2178,53 @@
             "support": {
                 "source": "http://cgit.drupalcode.org/admin_toolbar",
                 "issues": "https://www.drupal.org/project/issues/admin_toolbar"
+            }
+        },
+        {
+            "name": "drupal/block_user_info",
+            "version": "2.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/block_user_info.git",
+                "reference": "8.x-2.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/block_user_info-8.x-2.1.zip",
+                "reference": "8.x-2.1",
+                "shasum": "1d2608eb4d00e4897076babb91f740e49ffd0ab4"
+            },
+            "require": {
+                "drupal/core": "*"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-2.x": "2.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-2.1",
+                    "datestamp": "1534166584",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "matthieuscarset",
+                    "homepage": "https://www.drupal.org/user/3471281"
+                }
+            ],
+            "description": "A custom block to display users info with a view display.",
+            "homepage": "https://www.drupal.org/project/block_user_info",
+            "support": {
+                "source": "https://git.drupalcode.org/project/block_user_info"
             }
         },
         {

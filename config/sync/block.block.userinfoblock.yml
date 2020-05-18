@@ -1,0 +1,40 @@
+uuid: 9471e465-24b0-4154-80ab-8707df5b382a
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_user_info
+    - ctools
+    - node
+  theme:
+    - bartik
+id: userinfoblock
+theme: bartik
+region: sidebar_first
+weight: -5
+provider: null
+plugin: block_user_info
+settings:
+  id: block_user_info
+  label: 'Author info'
+  provider: block_user_info
+  label_display: visible
+  target: author
+  view_mode: full
+  user: null
+  class: ''
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    bundles:
+      article: article
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'
+  node_type:
+    id: node_type
+    bundles:
+      article: article
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'

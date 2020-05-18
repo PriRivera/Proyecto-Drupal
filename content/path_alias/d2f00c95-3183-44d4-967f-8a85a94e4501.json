@@ -1,0 +1,35 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/path_alias\/path_alias"
+        }
+    },
+    "uuid": [
+        {
+            "value": "d2f00c95-3183-44d4-967f-8a85a94e4501"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/5"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/comedy"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

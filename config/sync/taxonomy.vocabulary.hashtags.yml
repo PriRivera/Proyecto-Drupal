@@ -1,0 +1,8 @@
+uuid: 10006c04-2708-4930-9e25-4e00cc25c3bc
+langcode: en
+status: true
+dependencies: {  }
+name: hashtags
+vid: hashtags
+description: 'Popular hashtag'
+weight: 0

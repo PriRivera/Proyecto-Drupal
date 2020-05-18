@@ -1,0 +1,287 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/article\/porque-soy-inferior-pri?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "href": "http:\/\/default\/user\/3?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_hashtag": [
+            {
+                "href": "http:\/\/default\/taxonomy\/term\/7?_format=hal_json"
+            },
+            {
+                "href": "http:\/\/default\/taxonomy\/term\/13?_format=hal_json"
+            },
+            {
+                "href": "http:\/\/default\/taxonomy\/term\/12?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_image": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2020-05\/profile.jpg",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_paragraph_selector": [
+            {
+                "href": ""
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_tags": [
+            {
+                "href": "http:\/\/default\/food?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "1088d936-7289-4958-814c-6517d4138528"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-05-18T15:39:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "63e76125-7371-4f7a-b81d-035ad7ffe915"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/3?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a6e7a921-22cb-462e-9b6e-0fbc29213708"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_hashtag": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/taxonomy\/term\/7?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/hashtags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "2d1fb3d6-7941-4b98-932b-f47ac184560b"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/taxonomy\/term\/13?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/hashtags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5926f32e-a910-4fcf-bc81-e2432fe95293"
+                    }
+                ]
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/taxonomy\/term\/12?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/hashtags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "44b5ca9a-c4cc-4166-bac3-eb08ec801043"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2020-05\/profile.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "673056d5-7961-45c8-bc83-ca13009bc470"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_paragraph_selector": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/news_paragraph"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "77bb0ce2-80d8-4291-b94d-3b96117436a9"
+                    }
+                ],
+                "target_revision_id": "281"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_tags": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/food?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/category"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d6c18919-f12b-4a2a-a347-26208bc48772"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Porque soy inferior a Pri",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-05-18T15:14:33+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-05-18T15:39:48+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/article\/porque-soy-inferior-pri",
+            "pid": 18,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Fair trade espresso, aftertaste black, shop, in dripper lungo cinnamon roast caf\u00e9 au lait. Chicory black, strong coffee qui grinder body white cortado single origin. Whipped gal\u00e3o, skinny, plunger pot arabica shop single shot crema coffee extra. Barista organic crema, froth robusta extraction cream, instant caf\u00e9 au lait instant at con panna. Cinnamon robust dark mocha, milk aftertaste caramelization iced aftertaste seasonal latte.<br \/>\r\n&nbsp;<\/p>\r\n",
+            "format": "basic_html",
+            "processed": "<p>Fair trade espresso, aftertaste black, shop, in dripper lungo cinnamon roast caf\u00e9 au lait. Chicory black, strong coffee qui grinder body white cortado single origin. Whipped gal\u00e3o, skinny, plunger pot arabica shop single shot crema coffee extra. Barista organic crema, froth robusta extraction cream, instant caf\u00e9 au lait instant at con panna. Cinnamon robust dark mocha, milk aftertaste caramelization iced aftertaste seasonal latte.<br \/>\n\u00a0<\/p>",
+            "summary": "Fair trade espresso, aftertaste black, shop, in dripper lungo",
+            "lang": "en"
+        }
+    ],
+    "comment": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1589815024,
+            "last_comment_name": null,
+            "last_comment_uid": 3,
+            "comment_count": 0,
+            "lang": "en"
+        }
+    ]
+}
